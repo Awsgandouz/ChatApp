@@ -10,10 +10,10 @@ To use ChatApp, follow these steps:
 4. Run the Client.java file to start the client application.
 
 ### Features
-. Real-time messaging: Chat with other users in real-time.
-. Multithreading: The application uses multithreading to handle multiple users simultaneously.
-. User authentication: Users can create an account by typing their nickame.
-. Chat history: Users can view their chat history.
+- Real-time messaging: Chat with other users in real-time.
+- Multithreading: The application uses multithreading to handle multiple users simultaneously.
+- User authentication: Users can create an account by typing their nickame.
+- Chat history: Users can view their chat history.
 
 ### Usage
 1. Start the server by running the Server.java file.
